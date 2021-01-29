@@ -7,6 +7,7 @@ Para descargar libros simplemente tiene agregar los nombres de los libros (Tal c
 a la lista indicada dentro del codigo, compilar y ejecutar.
 
 Necesitara utilizar tus credenciales (usuario y contraseña) de Oreilly para permitir al web scrapper trabajar.
-Posiblemente, debido a cambios en el formato de la web de Oreilly, este script ya no sea util.
 
 ![alt text](https://github.com/NicolasMuras/Oreilly_Downloader/blob/master/examples/CompTIA%20A%2B%20Core%201%20(220-1001)%20and%20Core%202%20(220-1002)%20Exam%20Cram/example.jpg?raw=true)
+
+Posiblemente, debido a cambios en el formato de la web de Oreilly, este script ya no sea util.
