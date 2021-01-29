@@ -6,4 +6,4 @@ a la lista indicada dentro del codigo, compilar y ejecutar.
 
 Necesitara utilizar sus credenciales (usuario y contraseña) de Oreilly para permitir al web scrapper trabajar.
 
-![alt text](https://github.com/NicolasMuras/Oreilly_Downloader/blob/main/Progress%20in%20pictures/DAY_12B.jpg?raw=true)
+![alt text](https://github.com/NicolasMuras/Oreilly_Downloader/blob/main/examples/CompTIA%20A%2B%20Core%201%20(220-1001)%20and%20Core%202%20(220-1002)%20Exam%20Cram/example.jpg?raw=true)
