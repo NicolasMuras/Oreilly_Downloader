@@ -5,3 +5,5 @@ Para descargar libros simplemente tiene agregar los nombres de los libros (Tal c
 a la lista indicada dentro del codigo, compilar y ejecutar.
 
 Necesitara utilizar sus credenciales (usuario y contraseña) de Oreilly para permitir al web scrapper trabajar.
+
+![alt text](https://github.com/NicolasMuras/Oreilly_Downloader/blob/main/Progress%20in%20pictures/DAY_12B.jpg?raw=true)
